@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Complaint box
+    url: https://devnull-as-a-service.com/dev/null
+    about: API for sending comaplaints and feedback
